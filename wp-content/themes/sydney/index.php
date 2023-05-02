@@ -43,7 +43,7 @@ get_header(); ?>
 
 		</main><!-- #main -->
 	</div><!-- #primary -->
-
+<p>holllaaa freinds</p>
 	<?php do_action('sydney_after_content'); ?>
 
 <?php get_sidebar(); ?>
